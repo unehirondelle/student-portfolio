@@ -12,7 +12,7 @@ function App() {
   return (
     <Router>
       <Header />
-      <Route exact path="#/" component={Index} />
+      <Route exact path="/" component={Index} />
       <Route exact path="#/index" component={Index} />
       <Route exact path="#/react-portfolio" component={Index} />
       <Route exact path="#/portfolio" component={Portfolio} />
