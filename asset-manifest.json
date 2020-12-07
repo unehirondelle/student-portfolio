@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.b414803c.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.19ea6292.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.19ea6292.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.b45d6ad9.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.b45d6ad9.js.map",
+    "static/js/2.4c238fe4.chunk.js": "/react-portfolio/static/js/2.4c238fe4.chunk.js",
+    "static/js/2.4c238fe4.chunk.js.map": "/react-portfolio/static/js/2.4c238fe4.chunk.js.map",
+    "static/js/3.d98f9021.chunk.js": "/react-portfolio/static/js/3.d98f9021.chunk.js",
+    "static/js/3.d98f9021.chunk.js.map": "/react-portfolio/static/js/3.d98f9021.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.b414803c.chunk.css.map": "/react-portfolio/static/css/main.b414803c.chunk.css.map",
+    "static/js/2.4c238fe4.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.4c238fe4.chunk.js.LICENSE.txt",
+    "static/media/Burger.2eed14c9.png": "/react-portfolio/static/media/Burger.2eed14c9.png",
+    "static/media/Facebook.7e04434c.png": "/react-portfolio/static/media/Facebook.7e04434c.png",
+    "static/media/GetMeOutOfHere.fb81695c.png": "/react-portfolio/static/media/GetMeOutOfHere.fb81695c.png",
+    "static/media/GitHub.e1de0505.png": "/react-portfolio/static/media/GitHub.e1de0505.png",
+    "static/media/Instagram.b79d2aed.png": "/react-portfolio/static/media/Instagram.b79d2aed.png",
+    "static/media/JavaScriptQuiz.4b217a5e.png": "/react-portfolio/static/media/JavaScriptQuiz.4b217a5e.png",
+    "static/media/LinkedIn.8c5d5cc9.png": "/react-portfolio/static/media/LinkedIn.8c5d5cc9.png",
+    "static/media/ProfilePhoto.4ca6f8b1.jpg": "/react-portfolio/static/media/ProfilePhoto.4ca6f8b1.jpg",
+    "static/media/Quizzinc.43bbac91.png": "/react-portfolio/static/media/Quizzinc.43bbac91.png",
+    "static/media/WeatherDashboard.b84d5e0b.png": "/react-portfolio/static/media/WeatherDashboard.b84d5e0b.png",
+    "static/media/WorkdayScheduler.da999f45.png": "/react-portfolio/static/media/WorkdayScheduler.da999f45.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b45d6ad9.js",
+    "static/js/2.4c238fe4.chunk.js",
+    "static/css/main.b414803c.chunk.css",
+    "static/js/main.19ea6292.chunk.js"
+  ]
+}
