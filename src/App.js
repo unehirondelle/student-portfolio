@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import Header from "../src/components/Header";
 import Footer from "../src/components/Footer";
 import Index from "./pages/index.js";

@@ -19,7 +19,7 @@ const Header = () => {
             <span className="icon-bar"></span>
             <span className="icon-bar"></span>
           </button>
-          <a className="navbar-brand" href="#/index">
+          <a className="navbar-brand" href="/index">
             About Me
           </a>
         </div>
@@ -31,15 +31,15 @@ const Header = () => {
         >
           <ul className="nav navbar-nav">
             <li className="active">
-              <a href="#/portfolio">
+              <a href="/portfolio">
                 Portfolio <span className="sr-only">(current)</span>
               </a>
             </li>
             <li>
-              <a href="#/contact">Contact</a>
+              <a href="/contact">Contact</a>
             </li>
             <li>
-              <a href="#/socials">Socials</a>
+              <a href="/socials">Socials</a>
             </li>
           </ul>
         </div>
