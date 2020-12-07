@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Header from "../src/components/Header";
 import Footer from "../src/components/Footer";
 import Index from "./pages/index.js";
@@ -12,12 +12,14 @@ function App() {
   return (
     <Router>
       <Header />
-      <Route exact path="/" component={Index} />
-      <Route exact path="/index" component={Index} />
-      <Route exact path="/react-portfolio" component={Index} />
-      <Route exact path="/portfolio" component={Portfolio} />
-      <Route exact path="/contact" component={Contact} />
-      <Route exact path="/socials" component={Socials} />
+      <Switch>
+        <Route exact path="/" component={Index} />
+        <Route exact path="/index" component={Index} />
+        <Route exact path="/react-portfolio" component={Index} />
+        <Route exact path="/portfolio" component={Portfolio} />
+        <Route exact path="/contact" component={Contact} />
+        <Route exact path="/socials" component={Socials} />
+      </Switch>
       <Footer />
     </Router>
   );
