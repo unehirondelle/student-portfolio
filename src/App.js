@@ -11,16 +11,16 @@ import "./App.css";
 function App() {
   return (
     <Router>
-      <Header />
-      <Switch>
+      <>
+        <Header />
         <Route exact path="/" component={Index} />
         <Route exact path="/index" component={Index} />
         <Route exact path="/react-portfolio" component={Index} />
         <Route exact path="/portfolio" component={Portfolio} />
         <Route exact path="/contact" component={Contact} />
         <Route exact path="/socials" component={Socials} />
-      </Switch>
-      <Footer />
+        <Footer />
+      </>
     </Router>
   );
 }
