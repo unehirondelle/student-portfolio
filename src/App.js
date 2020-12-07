@@ -13,11 +13,11 @@ function App() {
     <Router>
       <Header />
       <Route exact path="/" component={Index} />
-      <Route exact path="#/index" component={Index} />
-      <Route exact path="#/react-portfolio" component={Index} />
-      <Route exact path="#/portfolio" component={Portfolio} />
-      <Route exact path="#/contact" component={Contact} />
-      <Route exact path="#/socials" component={Socials} />
+      <Route exact path="/index" component={Index} />
+      <Route exact path="/react-portfolio" component={Index} />
+      <Route exact path="/portfolio" component={Portfolio} />
+      <Route exact path="/contact" component={Contact} />
+      <Route exact path="/socials" component={Socials} />
       <Footer />
     </Router>
   );
